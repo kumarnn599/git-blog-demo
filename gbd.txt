@@ -1,0 +1,2 @@
+add line1 in the new text file gbd.txt
+add line2 in the new text file gbd.txt
